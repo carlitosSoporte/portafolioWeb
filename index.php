@@ -47,52 +47,15 @@
             <div class="row mt-5">
                 <div class="col mt-5">
                     <h1 class="text-center mt-3"><i class="bi bi-lightning-fill"></i><strong>Mi portafolio web</strong></h1>
-                    <div class="alert alert-secondary" role="alert">
+                    <div class="alert alert-info border border-primary border-1" role="alert">
                         <div class="row mb-2">
                             <div class="col">
-                                <h2><strong>Herramientas utilizadas</strong></h2>
+                                <h2><i class="bi bi-bookmark-star-fill"></i><strong>Herramientas utilizadas</strong></h2>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-4">
-                                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></li>
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></li>
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img src="https://placeimg.com/1000/480/animals" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5 class="text-dark">First slide label</h5>
-                                                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="https://placeimg.com/1000/480/nature" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5>Second slide label</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="https://placeimg.com/1000/480/tech" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5>Third slide label</h5>
-                                                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-bs-slide="prev">
-                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                        <span class="visually-hidden">Previous</span>
-                                    </a>
-                                    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-bs-slide="next">
-                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                        <span class="visually-hidden">Next</span>
-                                    </a>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -100,11 +63,19 @@
             </div>
             <div class="row">
                 <div class="col mt-3 mb-5">
-                    <div class="alert alert-secondary border border-primary border-1" role="alert">
-                        <strong>Javascript</strong>
-                        <div class="progress border border-success border-1 col-md-8">
-                            <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+                    <div class="alert alert-info border border-primary border-1" role="alert">
+                        <div class="row">
+                            <h2><strong>Desenvolvimiento con lenguajes de programación</strong></h2>
                         </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <strong>Javascript</strong>
+                                <div class="progress border border-success border-1">
+                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -125,7 +96,7 @@
                                     <p><i class="bi bi-calendar3"></i> <strong>20<?= Date("y") ?></strong></p>
                                 </div>
                                 <div class="col-md-3 mt-3 text-warning">
-                                    <img src="https://github.com/carlitosSoporte/servidorArchivos/blob/main/creador.jpeg?raw=true" alt="creador" class="w-100 img-fluid rounded-pill mt-2 mb-3">
+                                    <img src="https://github.com/carlitosSoporte/servidorArchivos/blob/main/fotosPortafolio/creador.jpeg?raw=true" alt="creador" class="w-100 img-fluid rounded-pill mt-2 mb-3">
                                 </div>
                                 <div class="col-md-3 mt-5 text-warning">
                                     <div class="row mb-3">

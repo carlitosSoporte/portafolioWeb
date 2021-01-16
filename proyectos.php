@@ -125,7 +125,7 @@
                                     <p><i class="bi bi-calendar3"></i> <strong>20<?= Date("y") ?></strong></p>
                                 </div>
                                 <div class="col-md-3 mt-3 text-warning">
-                                    <img src="https://github.com/carlitosSoporte/servidorArchivos/blob/main/creador.jpeg?raw=true" alt="creador" class="w-100 img-fluid rounded-pill mt-2 mb-3">
+                                    <img src="https://github.com/carlitosSoporte/servidorArchivos/blob/main/fotosPortafolio/creador.jpeg?raw=true" alt="creador" class="w-100 img-fluid rounded-pill mt-2 mb-3">
                                 </div>
                                 <div class="col-md-3 mt-5 text-warning">
                                     <div class="row mb-3">
