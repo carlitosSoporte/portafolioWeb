@@ -55,7 +55,29 @@
                         </div>
                         <div class="row">
                             <div class="col-md-4">
-
+                                <ul>
+                                    <li><i class="bi bi-bag-check-fill"></i> Android Studio</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Visual Studio Code</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Visual Studio</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Sublime Text
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li><i class="bi bi-bag-check-fill"></i> phpMyAdmin</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> SQL SERVER</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> FIREBASE</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Bitbucket</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li><i class="bi bi-bag-check-fill"></i> NetBeans</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Postman</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> Git</li>
+                                    <li><i class="bi bi-bag-check-fill"></i> GitHub</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -65,16 +87,29 @@
                 <div class="col mt-3 mb-5">
                     <div class="alert alert-info border border-primary border-1" role="alert">
                         <div class="row">
-                            <h2><strong>Desenvolvimiento con lenguajes de programación</strong></h2>
+                            <h2><i class="bi bi-award-fill"></i><strong> Desempeño con lenguajes de programación</strong></h2>
                         </div>
                         <div class="row">
-                            <div class="col-md-6">
-                                <strong>Javascript</strong>
-                                <div class="progress border border-success border-1">
-                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+                            <div class="col">
+                                <div class="card mb-3 bg-dark border border-primary border-1" >
+                                    <div class="row g-0">
+                                        <div class="col-md-4">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" class="w-100">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> Javascript</strong></h5>
+                                                <div class="progress border border-white border-1">
+                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+                                                </div>
+                                                <p class="text-white mt-2"><strong>Descripción:</strong></p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+                        
 
                     </div>
                 </div>
