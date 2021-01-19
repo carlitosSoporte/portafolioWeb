@@ -45,65 +45,30 @@
     <main>
         <div class="container">
             <div class="row mt-5">
-                <div class="col mt-5">
-                    <h1 class="text-center mt-3"><i class="bi bi-lightning-fill"></i><strong>Mi portafolio web</strong></h1>
-                    <div class="alert alert-secondary" role="alert">
-                        <div class="row mb-2">
-                            <div class="col">
-                                <h2><strong>Herramientas utilizadas</strong></h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"></li>
-                                        <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></li>
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img src="https://placeimg.com/1000/480/animals" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5 class="text-dark">First slide label</h5>
-                                                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="https://placeimg.com/1000/480/nature" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5>Second slide label</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </div>
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img src="https://placeimg.com/1000/480/tech" class="d-block w-100 rounded" alt="...">
-                                            <div class="carousel-caption d-none d-md-block">
-                                                <h5>Third slide label</h5>
-                                                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-bs-slide="prev">
-                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                        <span class="visually-hidden">Previous</span>
-                                    </a>
-                                    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-bs-slide="next">
-                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                        <span class="visually-hidden">Next</span>
-                                    </a>
-                                </div>
-                            </div>
+                <div class="col mt-5 mb-4">
+                    <h1 class="text-center mt-5"><i class="bi bi-puzzle-fill"></i> Proyectos Web subidos</h1>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-4">
+                    <div class="card bg-light border border-primary border-1">
+                        <img src="https://crudotransparente.com/wp-content/uploads/2020/04/spotify-logo.png" class="card-img-top w-100 img-fluid" alt="Cosumo Spotify">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary"><strong>Consumo servicio de API de Spotify</strong></h5>
+                            <p class="card-text text-dark">Se realiza consumo por medio de Ajax y Javascript de un servicio del API de Spotify.</p>
+                            <p class="text-center"><a href="http://carlosdiaz.tonohost.com/spotify/index.php" target="_blank" class="btn btn-outline-dark">Ir a la página</a></p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col mt-3 mb-5">
-                    <div class="alert alert-secondary border border-primary border-1" role="alert">
-                        <strong>Javascript</strong>
-                        <div class="progress border border-success border-1 col-md-8">
-                            <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+            <div class="row justify-content-center">
+                <div class="col-md-4 mt-5">
+                    <div class="card border border-primary border-1">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNQgPdF57rdBTKGPh-wth397nvvNrmHDJg3g&usqp=CAU" class="card-img-top w-100 img-fluid" alt="Tienda Virtual">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary"><strong>Mini Tienda Virtual</strong></h5>
+                            <p class="card-text text-dark">Se realiza una tienda virtual pequeña con php y conexión de datos a MySQL(incluye subida de imagen).</p>
+                            <p class="text-center"><a href="http://carlosdiaz.tonohost.com/TiendaVirtual/formularioTitulos.php" target="_blank" class="btn btn-outline-dark">Ir a la página</a></p>
                         </div>
                     </div>
                 </div>

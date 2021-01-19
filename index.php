@@ -84,33 +84,141 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col mt-3 mb-5">
+                <div class="col mt-3 mb-2">
                     <div class="alert alert-info border border-primary border-1" role="alert">
                         <div class="row">
                             <h2><i class="bi bi-award-fill"></i><strong> Desempeño con lenguajes de programación</strong></h2>
                         </div>
                         <div class="row">
                             <div class="col">
-                                <div class="card mb-3 bg-dark border border-primary border-1" >
+                                <div class="card mb-3 bg-dark border border-primary border-1 mt-2">
                                     <div class="row g-0">
-                                        <div class="col-md-4">
-                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" class="w-100">
+                                        <div class="col-md-5 mt-4">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="c#" class="w-100 img-fluid">
                                         </div>
-                                        <div class="col-md-8">
+                                        <div class="col-md-7">
                                             <div class="card-body">
-                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> Javascript</strong></h5>
+                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> C#</strong></h5>
                                                 <div class="progress border border-white border-1">
-                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 75%"><strong>75%</strong></div>
+                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 70%"><strong>70%</strong></div>
                                                 </div>
-                                                <p class="text-white mt-2"><strong>Descripción:</strong></p>
+                                                <p class="text-white mt-4"><strong>Descripción:</strong></p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de variables, estructuras cíclicas y condicionales simples y anidados. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de proyectos de escritorio con Windows Forms y proyectos web con ASP.NET. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de arreglos,cadenas y Programación Orientada a Objetos. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Uso de Entity Framework, Modelo-Vista-Controlador, creación y consumo de API REST, conexión con bases de datos SQL. </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
+                        <div class="row">
+                            <div class="col">
+                                <div class="card mb-3 bg-dark border border-primary border-1 mt-2">
+                                    <div class="row g-0">
+                                        <div class="col-md-5">
+                                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" class="w-100">
+                                        </div>
+                                        <div class="col-md-7">
+                                            <div class="card-body">
+                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> Java</strong></h5>
+                                                <div class="progress border border-white border-1">
+                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 67%"><strong>67%</strong></div>
+                                                </div>
+                                                <p class="text-white mt-4"><strong>Descripción:</strong></p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de variables, estructuras cíclicas y condicionales simples y anidados. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Programación Orientada a Objetos. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de arreglos y cadenas. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Uso de arquitectura Modelo-Vista-Controlador. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Conexión con bases de datos SQL. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Consumo de API con Android Studio. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Creación de aplicaciones Móviles. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Creación de proyectos Web. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Conexión de Aplicaciones Móviles con Android Studio a base de datos no relacional FIREBASE. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Creación de Aplicaciones de consola y prueba de programación por capas con la consola. </p>
 
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="card bg-dark border border-primary border-1 mt-2">
+                                    <div class="row g-0">
+                                        <div class="col-md-5 mt-5">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Javascript" class="w-100">
+                                        </div>
+                                        <div class="col-md-7">
+                                            <div class="card-body">
+                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> PHP</strong></h5>
+                                                <div class="progress border border-white border-1">
+                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 55%"><strong>55%</strong></div>
+                                                </div>
+                                                <p class="text-white mt-4"><strong>Descripción:</strong></p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de variables, estructuras cíclicas y condicionales simples y anidados. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Conexión con bases de datos SQL. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de arreglos,cadenas y funciones. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Creacion de API REST. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="card bg-dark border border-primary border-1 mt-4">
+                                    <div class="row g-0">
+                                        <div class="col-md-5">
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" class="w-100">
+                                        </div>
+                                        <div class="col-md-7">
+                                            <div class="card-body">
+                                                <h5 class="card-title text-warning"><i class="bi bi-patch-check-fill"></i><strong class="mt-4"> Javascript</strong></h5>
+                                                <div class="progress border border-white border-1">
+                                                    <div class="text-light progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 40%"><strong>40%</strong></div>
+                                                </div>
+                                                <p class="text-white mt-4"><strong>Descripción:</strong></p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de variables, estructuras cíclicas y condicionales simples y anidados. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Control básico del DOM. </p>
+                                                <p class="text-white"><i class="bi bi-check2-circle"></i> Manejo de arreglos,cadenas y funciones. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="alert alert-info border border-primary border-1 mt-2" role="alert">
+                        <div class="row mb-2">
+                            <div class="col">
+                                <h2><i class="bi bi-bookmark-star-fill"></i><strong>Bases de datos y otros</strong></h2>
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <div class="col-md-4">
+                            <h5 class="mb-3 mt-4"><i class="bi bi-server"></i><strong> Bases de datos SQL</strong></h5>
+                            <P><i class="bi bi-star-fill"></i> Creación de bases de datos con tablas normalizadas y relacionadas.</P>
+                            <P><i class="bi bi-star-fill"></i> Manejo de consultas de consultas de insercción, actualización, eliminación y listado de datos.</P>
+                            <P><i class="bi bi-star-fill"></i> Uso de procedimientos almacenados.</P>
+                            </div>
+                            <div class="col-md-4">
+                            <h5 class="mt-4 mb-3"><i class="bi bi-slack"></i><strong> Otros...</strong></h5>
+                            <p><i class="bi bi-star-fill"></i> Uso básico de Firebase.</p>
+                            <p><i class="bi bi-star-fill"></i> Uso básico de bootstrap.</p>
+                            <p><i class="bi bi-star-fill"></i> Uso básico de Postman.</p>
+                            <p><i class="bi bi-star-fill"></i> Manejo de html y conceptos básicos de CSS.</p>
+                            <p><i class="bi bi-star-fill"></i> Versionamiento de repositorios web por medio de Github y Bitbucket.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
