@@ -73,6 +73,25 @@
                     </div>
                 </div>
             </div>
+            <div class="row justify-content-center">
+                <div class="col-md-4 mt-5">
+                    <div class="card border border-primary border-1">
+                        <img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2020/04/hospital-dibujo-nueva-web-1200x630.jpg" class="card-img-top w-100 img-fluid" alt="Tienda Virtual">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary"><strong>Filtrado y Reserva de citas</strong></h5>
+                            <p class="card-text text-dark">Trabajo grupal en el que se ejecuta un filtrado y reserva de las citas agendadas y disponibles de un Hospital.</p>
+                            <p class="text-primary"><strong>Colaboradores</strong></p>
+                            <ul>
+                                <li><a href="https://github.com/carlitosSoporte" target="_blank" rel="noopener noreferrer">Carlos Diaz(yo)</a></li>
+                                <li><a href="https://github.com/machucagelvez" target="_blank" rel="noopener noreferrer">Fabian Machuca</a></li>
+                                <li><a href="https://github.com/Miguel22agudelo" target="_blank" rel="noopener noreferrer">Miguel Agudelo</a></li>
+                                <li><a href="https://github.com/santiagoquintero2001" target="_blank" rel="noopener noreferrer">Santiago Quintero</a></li>
+                            </ul>
+                            <p class="text-center"><a href="http://carlosdiaz.tonohost.com/AppClinica/index.php" target="_blank" class="btn btn-outline-dark">Ir a la página</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </main>
     <footer class="bg-dark text-center text-white mt-5">
